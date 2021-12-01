@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": " julian tomas",
+      "empresa": "empresita",
+      "email": "correo@correo.com",
+      "telefono": "232323",
+      "notas": "prueba de fetch y json-server",
+      "id": 1
+    },
+    {
+      "nombre": "Nicolas",
+      "empresa": "Meli",
+      "email": "correo@correo.com",
+      "telefono": "12121",
+      "notas": "empresa de empresa",
+      "id": 3
+    },
+    {
+      "nombre": "mama",
+      "empresa": "chiper",
+      "email": "correo@correo.com",
+      "telefono": "22222",
+      "notas": "uno mas",
+      "id": 4
+    },
+    {
+      "nombre": "morfeo",
+      "empresa": "los sueños",
+      "email": "correo@correo.com",
+      "telefono": "1212",
+      "notas": "uno mas de mas",
+      "id": 6
+    },
+    {
+      "nombre": "andres",
+      "empresa": "codigo ",
+      "email": "correo@correo.com",
+      "telefono": "11111111",
+      "notas": "el cliente hace prueba",
+      "id": 7
+    }
+  ]
+}
